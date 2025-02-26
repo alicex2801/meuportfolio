@@ -33,6 +33,25 @@ gap: 170px;
  font-size: 28px;
  font-weight: 600; 
  color: rgb(0, 0, 0);   
-    
+text-decoration: none;
 
+}
+
+.titulo-destaque {
+
+color:black
+
+}
+
+.conteudo {
+
+height: auto;
+flex-direction: column;
+margin: 10%;
+display: flex;
+align-items: center;
+justify-content: space-between;
+margin-bottom: 15px;
+
+}
 
