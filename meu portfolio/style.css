@@ -21,3 +21,18 @@ color:rgb(255, 255, 255);
 padding: 2% 0% 2% 35%;
 
 }
+
+.display:flex;
+gap: 170px;
+
+}
+
+.cabecalho-menu-links{
+
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif; 
+ font-size: 28px;
+ font-weight: 600; 
+ color: rgb(0, 0, 0);   
+    
+
+
